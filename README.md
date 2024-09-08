@@ -4,6 +4,7 @@
 I am a big Djoker's fan 🎾, a gator/shark enthusiast, and a data analyst trying to work her way to a more advanced data science role.
 I am currently working in the higher education research and public policy field.
 
+Let's connect and learn together 🙌
 
 
 <!--
