@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Linh-Anh Le. You can call me Celia. 
+In my free time, I like watching tennis, travelling, cooking (without having to do the dishes), and exercising. 
+I am new to GitHub and currently am trying to learn Python and building out my DS portfolio at the same time!
+
+
 <!--
 **lelacelia/lelacelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
