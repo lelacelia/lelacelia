@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Linh-Anh Le. You can call me Celia. 
+### My name is Linh-Anh Le. I also go by Celia. 
 I am a big Djoker's fan 🎾, a gator/shark enthusiast, and a data analyst trying to work her way to a more advanced data science role.
 I am currently working in the higher education research and public policy field.
 
