@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-My name is Linh-Anh Le. You can call me Celia. 
-In my free time, I like watching tennis, travelling, cooking (without having to do the dishes), and exercising. 
-I am new to GitHub and currently am trying to learn Python and building out my DS portfolio at the same time!
+## My name is Linh-Anh Le. You can call me Celia. 
+### I am a big Djoker's fan 🎾, a gator/shark enthusiast, and a wanna-be data scientist!
+### I am currently in the higher education research and public policy field.
+
 
 
 <!--
